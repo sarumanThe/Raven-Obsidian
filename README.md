@@ -1,4 +1,4 @@
-# 🜁 Mist Grimorium - Raven Obsidian Alquimia
+# 🜁 Mist Grimorium
 
 **Script interativo de automação para criação de notas no Obsidian**
 
@@ -208,9 +208,21 @@ Contribuições são bem-vindas! Sinta-se livre para:
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abrir um Pull Request
 
+## 📝 License
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👤 Autor
 
 **Mist Raven**
+
+- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
+
+## 🌟 Mostre seu Apoio
+
+Se este projeto te ajudou, considere dar uma ⭐️!
+
+---
 
 **Feito com 🖤 e ⚗️ por Mist Raven**
