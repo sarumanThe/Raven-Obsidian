@@ -213,9 +213,6 @@ Contribuições são bem-vindas! Sinta-se livre para:
 
 **Mist Raven**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-
 ## 🌟 Mostre seu Apoio
 
 Se este projeto te ajudou, considere dar uma ⭐️!
